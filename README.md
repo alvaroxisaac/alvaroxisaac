@@ -5,13 +5,10 @@
 <!-- 2. TÍTULO PRINCIPAL -->
 # Álvaro Champi
 
-
-
 <!-- 3. TEXTO ANIMADO (Efecto "Distributed s...") -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=500&size=20&pause=1000&color=FB8500&vCenter=true&width=600&lines=Business+Intelligence+Intern;Data+Engineering;Data+Data+Data+Everywhere..." alt="Typing SVG" />
 </a>
-
 
 <!-- 4. DESCRIPCIÓN PERSONAL -->
 Business Administration graduate and current Business Engineering student focused on Business Intelligence. I design robust data models and automate workflows to transform raw data into actionable insights. Based in **Peru** 🇵🇪, currently applying my skills as a Business Intelligence Intern, with a recent focus on analytical projects for **Isopetrol Lubricants of Peru**.
@@ -24,7 +21,6 @@ Business Administration graduate and current Business Engineering student focuse
     <img src="https://img.shields.io/github/followers/alvaroxisaac?label=Followers&style=social" alt="GitHub followers" />
   </a>
 </p>
-
 
 <!-- 6. TRABAJO ACTUAL -->
 ## What I'm working on
@@ -45,6 +41,7 @@ Currently, I'm focused on developing automated data extraction flows and migrati
 </p>
 
 <!-- 8. CONTACTO -->
+
 ## Contact
 
 [alvarochampi2004@gmail.com](mailto:alvarochampi2004@gmail.com) · [LinkedIn](https://linkedin.com/in/alvarochampi)
