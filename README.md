@@ -43,3 +43,8 @@ Currently, I'm focused on developing automated data extraction flows and migrati
   <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge" alt="Power Apps" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge" alt="Git" />
 </p>
+
+<!-- 8. CONTACTO -->
+## Contact
+
+[alvarochampi2004@gmail.com](mailto:tu_correo@email.com) · [LinkedIn](https://linkedin.com/in/alvarochampi)
