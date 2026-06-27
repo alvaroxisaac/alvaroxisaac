@@ -1,16 +1,13 @@
-## Hi there 👋
+<!-- 1. BANNER SUPERIOR -->
+<!-- Reemplaza el enlace de abajo con la URL de tu propia imagen -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200%22%20alt=%22Banner%20animado%20negro%22%20width=%22100%%22" alt="Banner Álvaro" width="100%">
 
-<!--
-**alvaroxisaac/alvaroxisaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 2. TÍTULO PRINCIPAL -->
+# Álvaro Champi
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 3. TEXTO ANIMADO (Efecto "Distributed s...") -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=500&size=20&pause=1000&color=000000&vCenter=true&width=600&lines=Business+Intelligence+Intern;Data+Analytics;Data+Engineering" alt="Typing SVG" />
+</a>
