@@ -25,7 +25,6 @@ Business Administration graduate and current Business Engineering student focuse
   </a>
 </p>
 
----
 
 <!-- SECCIÓN: TRABAJO ACTUAL -->
 ## What I'm working on
