@@ -47,4 +47,4 @@ Currently, I'm focused on developing automated data extraction flows and migrati
 <!-- 8. CONTACTO -->
 ## Contact
 
-[alvarochampi2004@gmail.com](mailto:tu_correo@email.com) · [LinkedIn](https://linkedin.com/in/alvarochampi)
+[alvarochampi2004@gmail.com](mailto:alvarochampi2004@gmail.com) · [LinkedIn](https://linkedin.com/in/alvarochampi)
